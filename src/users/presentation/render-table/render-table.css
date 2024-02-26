@@ -1,0 +1,12 @@
+
+.table-users{
+    background-color: rgba(0, 0, 0, 0.348);
+    border-radius: 5px;
+    padding: 10px;
+
+
+}
+th{
+    padding-left: 10px;
+    padding-right: 10px;
+}
